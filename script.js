@@ -221,7 +221,7 @@
 
          ctx.font = '24px Arial, sans-serif';
         ctx.fillStyle = '#6a6a6a';
-        ctx.fillText('Faclicitaotors: Akshay | Raj | Manav | Pavan', canvas.width / 2, 750);
+        ctx.fillText('Facilitators: Akshay | Raj | Manav | Pavan', canvas.width / 2, 750);
 
         ctx.font = '20px Arial, sans-serif';
         ctx.fillStyle = '#6b7280';
