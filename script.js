@@ -217,7 +217,7 @@
 
         ctx.font = '24px Arial, sans-serif';
         ctx.fillStyle = '#6a6a6a';
-        ctx.fillText('Given on 25 July, 2025 by K.S. School', canvas.width / 2, 600);
+        ctx.fillText('Given on 25 July, 2025 by K.S. School Of Business Management And Information Technology', canvas.width / 2, 600);
 
          ctx.font = '24px Arial, sans-serif';
         ctx.fillStyle = '#6a6a6a';
